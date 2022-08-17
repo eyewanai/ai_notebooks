@@ -1,2 +1,3 @@
-# ai_notebooks
-# ai_notebooks
+## AI Notebooks
+
+Trying to implement different neural nets
